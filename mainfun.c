@@ -1,5 +1,9 @@
-#include <>[D[[C[C<>[Dstdio.h>
+#include<stdio.h>
 void main()
 {
-//samplemain code[D[D[D[D[D[D[D[D[D main code
+//sample main code
+}
+dev1()
+{
+  //samplecode by developer1
 }
